@@ -22,10 +22,11 @@
         
 ## Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wanderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<a href="https://github.com/wandersondasilvaa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Vamos conversar?
 
