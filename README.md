@@ -4,8 +4,6 @@
 
 
 
----
-
 ## 🚀 Tecnologias
 
 <p align="left">
@@ -32,7 +30,6 @@
   </a>
 </p>
 
----
 
 ## 📊 Estatísticas
 
@@ -40,15 +37,6 @@
 
 [![Wanderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wandersondasilvaa/wandersondasilvaa/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 📫 Vamos conversar?
 
