@@ -1,37 +1,37 @@
 # 👋 Olá, eu sou o Wanderson!
 
-# Bem vindo ao meu perfil GitHub!
+## 👨‍💻 Bem-vindo ao meu perfil no GitHub!
 
-- 🔭 Graduando em Gestão de TI e Análise e Desenvolvimento de Sistemas pela UCB
-- 🌱 Desenvolvedor em formação 
-- ⚡ Atualmente estudando tecnologias como JavaScript,Typescript e outras stecs associadas
+- 🎓 Graduando em Gestão de TI e Análise e Desenvolvimento de Sistemas pela UCB  
+- 🌱 Desenvolvedor em formação  
+- 🚀 Atualmente estudando tecnologias como JavaScript, TypeScript e outras stacks associadas  
 
+---
 
+## 🚀 Tecnologias
 
-## Tecnologias
-
- <p>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </p>
-        
-## Estatísticas
 
-<div>
- 
- <a href="https://github.com/wandersondasilvaa">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário- 
- aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/wandersondasilvaa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
-## Vamos conversar?
+---
+
+## 🤝 Vamos conversar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wandersondasilvaa/" target="_blank">
@@ -42,4 +42,6 @@
   </a>
 </p>
 
-Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou apenas trocar uma ideia sobre tecnologia!
+---
+
+Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou simplesmente trocar uma ideia sobre tecnologia!
