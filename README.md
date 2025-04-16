@@ -1,10 +1,12 @@
-# 👋 Olá, eu sou o Wanderson da Silva!
+# 👋 Olá, eu sou o Wanderson!
+
+
 
 
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias
 
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
