@@ -4,7 +4,9 @@
 
 
 
-## 🚀 Tecnologias
+## 
+
+🚀 Tecnologias
 
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
@@ -31,14 +33,18 @@
 </p>
 
 
-## 📊 Estatísticas
+## 
+
+📊 Estatísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wanderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📫 Vamos conversar?
+## 
+
+📫 Vamos conversar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wandersondasilvaa/" target="_blank">
