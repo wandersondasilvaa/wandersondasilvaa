@@ -8,18 +8,6 @@ Atualmente, sou estagiário de TI na Central IT, onde atuo com ferramentas como 
 
 ## 🚀 Tecnologias que utilizo
 
-- **HTML5 & CSS3**  
-- **JavaScript & TypeScript**  
-- **React.js & Next.js**  
-- **Node.js**  
-- **PostgreSQL**  
-- Também estou sempre de olho em novas stacks para evoluir!
-
----
-
-## 📊 Estatísticas
-
-
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -45,6 +33,15 @@ Atualmente, sou estagiário de TI na Central IT, onde atuo com ferramentas como 
 </p>
 
 ---
+## 📊 Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wanderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 
 ## 🕹️ Projeto em Destaque
 
