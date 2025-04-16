@@ -1,30 +1,39 @@
-## Olá! Eu sou o Wanderson da Silva Sousa
+# 👋 Olá, eu sou o Wanderson da Silva!
 
-- 🎓 Graduando em Gestão de TI e Análise e Desenvolvimento de Sistemas pela UCB 
-- 🔭 Dev. em formação
-- 🌱 Atualmente estudando tecnologias como HTML, CSS, JavaScript, Java, Spring Boot e SQL 
+Sou apaixonado por tecnologia e atualmente estou cursando **Gestão de TI** e **Análise e Desenvolvimento de Sistemas** pela Universidade Católica de Brasília. Também sou estagiário de TI na Central IT, onde atuo no monitoramento de redes e infraestrutura, utilizando ferramentas como Zabbix, Nagios e Grafana.
 
+Tenho experiência com manutenção de sistemas, administração de ambientes computacionais e estou sempre em busca de aprimorar meus conhecimentos — especialmente na área de **back-end**, estudando tecnologias como **Java**, **Spring Boot**, e **SQL**.
 
-## Tecnologias
+---
 
-<div>
+## 🚀 Tecnologias que utilizo nos meus projetos
 
-   ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-   ![SQL](https://img.shields.io/badge/SQL-%2307405e?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-    
-</div>
+---
 
-## Redes para contato 
+## 📊 Estatísticas do GitHub
 
-<div>
-  
-  <a href="https://www.linkedin.com/in/wanderson-da-silva-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:w.dasilvaa08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+---
+
+## 🐍 Snake Game - Representação de Contribuições
+
+<p align="center">
+  <img src="https://github.com/wandersondasilvaa/wandersondasilvaa/raw/output/github-contribution-grid-snake.svg" alt="snake game animation" />
+</p>
+
+---
+
+## 📫 Fale comigo
+
+- [LinkedIn](https://www.linkedin.com/in/wandersondasilvaa)
+- [GitHub](https://github.com/wandersondasilvaa)
+
 
