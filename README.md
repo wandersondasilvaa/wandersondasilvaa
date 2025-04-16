@@ -1,55 +1,45 @@
-<h1 align="center">👋 Olá, eu sou o Wanderson da Silva</h1>
+# 👋 Olá, eu sou o Wanderson da Silva!
 
-<p align="center">
-  Estudante de <strong>Gestão de TI</strong> e <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Católica de Brasília.<br>
-  Estagiário de TI na Central IT, apaixonado por tecnologia e evolução constante! 💻🚀
-</p>
+Sou apaixonado por tecnologia e atualmente estou cursando **Gestão de TI** e **Análise e Desenvolvimento de Sistemas** pela Universidade Católica de Brasília. Tenho experiência prática com **monitoramento de redes**, **suporte técnico**, e venho me especializando no desenvolvimento back-end, mas também curto muito explorar o front-end.
 
----
-
-## 🧠 Sobre mim
-
-- 💼 Atualmente estagiando em TI com foco em **monitoramento de redes** (Zabbix, Nagios, Grafana).
-- 🧱 Interesse especial em **desenvolvimento back-end**.
-- 🎯 Estudando: **Java**, **Spring Boot**, **SQL**.
-- 🧑‍💻 Com experiência prática em ambientes corporativos e disciplina da formação militar no Exército Brasileiro.
+Atualmente, sou estagiário de TI na Central IT, onde atuo com ferramentas como Zabbix, Nagios e Grafana. Tenho uma bagagem que inclui experiências no setor público, privado e também formação militar, o que fortaleceu ainda mais minha capacidade de liderança e trabalho em equipe.
 
 ---
 
 ## 🚀 Tecnologias que utilizo
 
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+- **HTML5 & CSS3**  
+- **JavaScript & TypeScript**  
+- **React.js & Next.js**  
+- **Node.js**  
+- **PostgreSQL**  
+- Também estou sempre de olho em novas stacks para evoluir!
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&langs_count=7&theme=radical&hide_border=true" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## 🐍 Snake Game - Contribuições em Ação
-
-<div align="center">
-  <img src="https://github.com/wandersondasilvaa/wandersondasilvaa/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
+[![Wanderson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 📫 Onde me encontrar
+## 🕹️ Projeto em Destaque
 
-<p>
-  <a href="https://www.linkedin.com/in/wandersondasilvaa" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/wandersondasilvaa" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Jogo da Cobrinha (Snake Game)
+
+Este projeto foi feito para treinar minha lógica de programação e manipulação de eventos com JavaScript. Também uso ele para demonstrar a linha do tempo da minha evolução com projetos no GitHub.
+
+📍 Veja o projeto no repositório: [Snake Game](https://github.com/wandersondasilvaa/snake-game)
+
+📅 Confira o histórico e evolução pelo quadro de projetos (Projects) no repositório.
+
+---
+
+## 📫 Vamos conversar?
+
+- [LinkedIn](https://www.linkedin.com/in/wandersondasilvaa/)
+- [GitHub](https://github.com/wandersondasilvaa)
+
+Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou apenas trocar uma ideia sobre tecnologia!
