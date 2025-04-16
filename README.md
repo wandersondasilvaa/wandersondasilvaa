@@ -35,9 +35,13 @@ Atualmente, sou estagiário de TI na Central IT, onde atuo com ferramentas como 
 ---
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=dark)          
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&theme=dark&layout=compact) 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&theme=tokyonight" />
+</div>
+
 
 ---
 
