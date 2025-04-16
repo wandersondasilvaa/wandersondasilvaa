@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Wanderson!
 
-# 👨‍💻 Bem-vindo ao meu perfil no GitHub!
+👨‍💻 Bem-vindo ao meu perfil no GitHub!
 
 - 🎓 Graduando em Gestão de TI e Análise e Desenvolvimento de Sistemas pela UCB  
 - 🌱 Desenvolvedor em formação  
