@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou o Wanderson da Silva!
 
-Sou apaixonado por tecnologia e atualmente estou cursando **Gestão de TI** e **Análise e Desenvolvimento de Sistemas** pela Universidade Católica de Brasília. Tenho experiência prática com **monitoramento de redes**, **suporte técnico**, e venho me especializando no desenvolvimento back-end, mas também curto muito explorar o front-end.
 
-Atualmente, sou estagiário de TI na Central IT, onde atuo com ferramentas como Zabbix, Nagios e Grafana. Tenho uma bagagem que inclui experiências no setor público, privado e também formação militar, o que fortaleceu ainda mais minha capacidade de liderança e trabalho em equipe.
 
 ---
 
