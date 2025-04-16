@@ -41,20 +41,6 @@ Atualmente, sou estagiário de TI na Central IT, onde atuo com ferramentas como 
 
 ---
 
-
-
-## 🕹️ Projeto em Destaque
-
-### Jogo da Cobrinha (Snake Game)
-
-Este projeto foi feito para treinar minha lógica de programação e manipulação de eventos com JavaScript. Também uso ele para demonstrar a linha do tempo da minha evolução com projetos no GitHub.
-
-📍 Veja o projeto no repositório: [Snake Game](https://github.com/wandersondasilvaa/snake-game)
-
-📅 Confira o histórico e evolução pelo quadro de projetos (Projects) no repositório.
-
----
-
 ## 📫 Vamos conversar?
 
 <p align="left">
