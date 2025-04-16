@@ -46,7 +46,7 @@ Atualmente, sou estagiário de TI na Central IT, onde atuo com ferramentas como 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rychard6/Rychard6/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wandersondasilvaa/wandersondasilvaa/output/snake.svg" alt="Snake animation" />
 
 ###
 
