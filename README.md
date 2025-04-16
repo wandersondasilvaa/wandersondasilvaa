@@ -57,7 +57,12 @@ Este projeto foi feito para treinar minha lógica de programação e manipulaç�
 
 ## 📫 Vamos conversar?
 
-- [LinkedIn](https://www.linkedin.com/in/wandersondasilvaa/)
-- [GitHub](https://github.com/wandersondasilvaa)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/wanderson-da-silva-sousa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:w.dasilvaa08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou apenas trocar uma ideia sobre tecnologia!
