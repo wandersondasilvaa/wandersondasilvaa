@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Wanderson! 👨‍💻 Bem-vindo ao meu perfil no GitHub!
 
 - 🎓 Graduando em Gestão de TI e Análise e Desenvolvimento de Sistemas pela UCB  
-- 🌱 Desenvolvedor FullStack JavaScript em formção
+- 🌱 Desenvolvedor Fullstack JavaScript em formção
 - 🚀 Atualmente estudando tecnologias como HTML, CSS, JavaScript, TypeScript, React, Node.js e PostgreSQL  
 
 ## 
