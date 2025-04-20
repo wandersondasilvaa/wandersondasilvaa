@@ -4,6 +4,8 @@
 - 🌱 Desenvolvedor FullStack JavaScript em formção
 - 🚀 Atualmente estudando tecnologias como HTML, CSS, JavaScript, TypeScript, React, Node.js e PostgreSQL  
 
+## 
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=wandersondasilvaa&show_icons=true&theme=dark"
@@ -18,6 +20,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondasilvaa&layout=compact&theme=dark)
 
+##
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -27,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 </div>
+
+##
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wanderson-da-silva-sousa/" target="_blank">
